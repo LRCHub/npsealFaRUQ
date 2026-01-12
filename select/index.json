@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Million Futures",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-01-12T12:20:10.874460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Million Futures",
+      "artist": "Inori Minase",
+      "has_synced": true,
+      "path": "select/01_Million_Futures_Inori_Minase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Million Futures",
+      "artist": "Inori Minase",
+      "has_synced": true,
+      "path": "select/02_Million_Futures_Inori_Minase.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Million Futures",
+      "artist": "水瀬いのり",
+      "has_synced": true,
+      "path": "select/03_Million_Futures_水瀬いのり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Million Futures",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_Million_Futures_水瀬いのり.txt"
+    }
+  ]
+}
